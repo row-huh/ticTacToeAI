@@ -32,6 +32,9 @@ The minimax algorithm is a decision rule used for two-player games. In this proj
 
 ## Example
 You can choose to play as an X or O player
+
 ![image](https://github.com/row-huh/ticTacToeAI/assets/74301640/65fbeab3-628c-4baa-9f60-3ef713d622d4)
+
 The agent plays against you and makes sure that it wins or atleast it doesn't lose!
+
 ![image](https://github.com/row-huh/ticTacToeAI/assets/74301640/9959c724-f8ff-4682-a917-6fa8eb738e83)
